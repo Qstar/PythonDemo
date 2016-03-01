@@ -10,6 +10,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="baike_spider.spider_main.html_downloader" />
+          <option value="MySQLdb" />
         </list>
       </option>
     </inspection_tool>
